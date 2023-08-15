@@ -1,21 +1,42 @@
 ---
+layout: single
 permalink: /
-title: "About me"
-excerpt: "About me"
+# title: ""
 author_profile: true
+sitemap: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello, I’m Fabian 👋
+I am a third-year PhD student at the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, and advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). I am interested in robust and scalable cross-lingual transfer in the field of Natural Language Processing. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/230628_CV_FDS.pdf).
 
-I am a PhD student at [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany. I am working on Cross-Lingual Transfer in Natural Language Processing (NLP) field under the supervision of [Prof. Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). My research interests are cross-lingual and multilingual representation learning, focusing on domain and language specialization methods for dialog systems with the concerns of efficient domain- and language-transfer techniques.
+## Publications
 
-I received my Bachelors in Finance and gained professional experience in investment banking and private equity at, among others, Goldmach Sachs. My pivot to NLP took place in various steps. I ventured from empirical research in management accounting during my Bachelors to a Masters in Data Science at Uni Mannheim. There, I began to collaborate with my later supervisor Goran towards the end of my studies. My masters thesis on lexical supervision for low-resource neural machine translation sparked me to pursue a PhD in the field.
+<table>
+    <tr> 
+        <td><a href="https://aclanthology.org/2023.acl-long.314/"><b>Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging</b></a><br>
+        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
+        <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics</i>
+        </td>
+    </tr>
+    <tr> 
+        <td><a href="https://aclanthology.org/2022.emnlp-main.736/"><b>Don’t Stop Fine-Tuning: On Training Regimes for Few-Shot Cross-Lingual Transfer with Multilingual Language Models</b></a><br>
+        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
+        <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing</i>
+        </td>
+    </tr>
+    <tr> 
+        <td><a href="https://aclanthology.org/2022.emnlp-main.740/"><b> SLICER: Sliced Fine-Tuning for Low-Resource Cross-Lingual Transfer for Named Entity Recognition</b></a><br>
+        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
+        <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing</i>
+        </td>
+    </tr>
+    <tr> 
+        <td><a href="https://aclanthology.org/D19-3034/"><b>SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval</b></a><br>
+        <u>Fabian David Schmidt</u>, Markus Dietsche, Simone Paolo Ponzetto, Goran Glavaš.<br>
+        <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i>
+        </td>
+    </tr>
+</table>
 
-The first two years of my PhD focused on making both zero-shot and cross-lingual transfer to low-resource languages unseen in multilingual language modelling more robust. My interests are expanding to cross-lingual visually-grounded NLP in which I am at time of writing collaborating with another PhD in my team [Gregor](https://gregor-ge.github.io/).
-
-In my free time, I enjoy outdoor activities, such as running 👟 or hiking ⛰️ ,  contributing to open-souurce projects [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) (co-maintainer) or [telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope.nvim), which are hackable fuzzy finders for my editor of choice [Neovim](https://neovim.io).
-
-Feel free to reach out regarding my research interests, papers, or interests on your platform of choice :)
