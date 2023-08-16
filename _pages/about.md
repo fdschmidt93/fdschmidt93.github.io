@@ -18,28 +18,28 @@ I am a third-year PhD student at the [University of Würzburg](https://www.infor
         <td><a href="https://aclanthology.org/2023.acl-long.314/"><b>Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging</b></a><br>
         <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
         <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics</i><br>
-        <div class="conf_button"><b>ACL</b></div>&nbsp;<div class="paper_button"><b>long</b></div>
+        <div class="conf_button"><b>ACL</b></div>&nbsp;<div class="paper_button"><b>LONG</b></div>
         </td>
     </tr>
     <tr> 
         <td><a href="https://aclanthology.org/2022.emnlp-main.736/"><b>Don’t Stop Fine-Tuning: On Training Regimes for Few-Shot Cross-Lingual Transfer with Multilingual Language Models</b></a><br>
         <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
         <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing</i><br>
-        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>long</b></div>
+        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>LONG</b></div>
         </td>
     </tr>
     <tr> 
         <td><a href="https://aclanthology.org/2022.emnlp-main.740/"><b> SLICER: Sliced Fine-Tuning for Low-Resource Cross-Lingual Transfer for Named Entity Recognition</b></a><br>
         <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
         <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing</i><br>
-        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>short</b></div>
+        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>SHORT</b></div>
         </td>
     </tr>
     <tr> 
         <td><a href="https://aclanthology.org/D19-3034/"><b>SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval</b></a><br>
         <u>Fabian David Schmidt</u>, Markus Dietsche, Simone Paolo Ponzetto, Goran Glavaš.<br>
         <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i><br>
-        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>demo</b></div>
+        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>DEMO</b></div>
         </td>
     </tr>
 </table>
