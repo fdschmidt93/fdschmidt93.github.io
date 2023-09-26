@@ -11,6 +11,18 @@ redirect_from:
 
 I am a third-year PhD student at the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, and advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). I am interested in robust and scalable cross-lingual transfer in the field of Natural Language Processing. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/230628_CV_FDS.pdf).
 
+## News
+
+<table class="twoColumnTable">
+    <tbody>
+        <tr>
+            <td class="left-column">Sep 27, 2023</td>
+            <td class="right-column">I gave an invited talk about my work on <a href="https://fdschmidt93.github.io/files/xlt_invited-talk@uds.pdf"><b>robust and scalable cross-lingual transfer</b></a> at the <a href="https://www.uni-saarland.de/en/department/lst.html">Language Science and Technology department of Uni Saarland</a>.</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## Publications
 
 <table>
