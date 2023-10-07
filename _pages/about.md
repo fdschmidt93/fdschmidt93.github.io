@@ -17,7 +17,7 @@ I am a third-year PhD student at the [University of Würzburg](https://www.infor
     <tbody>
         <tr>
             <td class="left-column">Oct, 2023</td>
-            <td class="right-column">Our paper "One For All \& All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer" was accepted to Findings of EMNLP!</a>.</td>
+            <td class="right-column">Our paper "One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer" was accepted to Findings of EMNLP!</td>
         </tr>
         <tr>
             <td class="left-column">Sep, 2023</td>
@@ -31,10 +31,10 @@ I am a third-year PhD student at the [University of Würzburg](https://www.infor
 
 <table>
     <tr> 
-        <td><b>One For All \& All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer</b></a><br>
+        <td><b>One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer</b><br>
         <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
         <i>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing</i><br>
-        <div class="conf_button"><b>ACL</b></div>&nbsp;<div class="paper_button"><b>SHORT</b></div>
+        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>SHORT</b></div>
         </td>
     </tr>
     <tr> 
