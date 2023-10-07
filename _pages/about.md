@@ -16,7 +16,11 @@ I am a third-year PhD student at the [University of Würzburg](https://www.infor
 <table class="twoColumnTable">
     <tbody>
         <tr>
-            <td class="left-column">Sep 27, 2023</td>
+            <td class="left-column">Oct, 2023</td>
+            <td class="right-column">Our paper "One For All \& All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer" was accepted to Findings of EMNLP!</a>.</td>
+        </tr>
+        <tr>
+            <td class="left-column">Sep, 2023</td>
             <td class="right-column">I gave an invited talk about my work on <a href="https://fdschmidt93.github.io/files/xlt_invited-talk@uds.pdf"><b>robust and scalable cross-lingual transfer</b></a> at the <a href="https://www.uni-saarland.de/en/department/lst.html">Language Science and Technology department of Uni Saarland</a>.</td>
         </tr>
     </tbody>
@@ -26,6 +30,13 @@ I am a third-year PhD student at the [University of Würzburg](https://www.infor
 ## Publications
 
 <table>
+    <tr> 
+        <td><b>One For All \& All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer</b></a><br>
+        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
+        <i>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing</i><br>
+        <div class="conf_button"><b>ACL</b></div>&nbsp;<div class="paper_button"><b>SHORT</b></div>
+        </td>
+    </tr>
     <tr> 
         <td><a href="https://aclanthology.org/2023.acl-long.314/"><b>Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging</b></a><br>
         <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
