@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, and advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). I am interested in robust and scalable cross-lingual transfer in the field of Natural Language Processing. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/240214_CV_FDS.pdf).
+I am a final year PhD student at the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, and advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). I am interested in robust and scalable cross-lingual transfer in the field of Natural Language Processing. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/240330_CV_FDS.pdf).
 
 ## News
 
 <table class="twoColumnTable">
     <tbody>
+        <tr>
+            <td class="left-column">Jan, 2024</td>
+            <td class="right-column">I started my 4-month internship at NEC Laboratories Europe with <a href="https://chiachienhung.github.io/">Chia-Chien Hung</a> and <a href="https://carolinlawrence.github.io/">Carolin Lawrence.</a></td>
+        </tr>
         <tr>
             <td class="left-column">Oct, 2023</td>
             <td class="right-column">Our paper "One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer" was accepted to Findings of EMNLP!</td>
