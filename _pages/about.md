@@ -15,6 +15,10 @@ I am a final year PhD student at the [University of Würzburg](https://www.infor
 <table class="twoColumnTable">
     <tbody>
         <tr>
+            <td class="left-column">May, 2024</td>
+            <td class="right-column">I will be doing a research visit in the <a href="https://ltl.mmll.cam.ac.uk/">Language Technology Lab</a> at the <a href="https://www.cam.ac.uk/">University of Cambridge</a> hosted by <a href="https://sites.google.com/site/ivanvulic/">Ivan Vulić</a>!</td>
+        </tr>
+        <tr>
             <td class="left-column">Jan, 2024</td>
             <td class="right-column">I started my 4-month internship at NEC Laboratories Europe with <a href="https://chiachienhung.github.io/">Chia-Chien Hung</a> and <a href="https://carolinlawrence.github.io/">Carolin Lawrence.</a></td>
         </tr>
