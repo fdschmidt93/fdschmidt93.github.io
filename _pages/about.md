@@ -15,6 +15,10 @@ I am a final year PhD student at the [University of Würzburg](https://www.infor
 <table class="twoColumnTable">
     <tbody>
         <tr>
+            <td class="left-column">June, 2024</td>
+            <td class="right-column">Our paper <a href="https://arxiv.org/abs/2406.12739">Self-Distillation for Model Stacking Unlocks Cross-Lingual NLU in 200+ Languages</a> is out! This was joint work with <a href="https://scholar.google.com/citations?user=efKKfygAAAAJ&hl=en">Philipp Borchert</a>, <a href="https://sites.google.com/site/ivanvulic/">Ivan Vulić</a>, and <a href="https://sites.google.com/view/goranglavas">Goran Glavaš</a> during my research visit in Cambridge.</td>
+        </tr>
+        <tr>
             <td class="left-column">May, 2024</td>
             <td class="right-column">I will be doing a research visit in the <a href="https://ltl.mmll.cam.ac.uk/">Language Technology Lab</a> at the <a href="https://www.cam.ac.uk/">University of Cambridge</a> hosted by <a href="https://sites.google.com/site/ivanvulic/">Ivan Vulić</a>!</td>
         </tr>
