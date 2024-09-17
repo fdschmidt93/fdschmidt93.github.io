@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student at the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, and advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). I am interested in robust and scalable cross-lingual transfer in the field of Natural Language Processing. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/240521_CV_FDS.pdf).
+I am a final year PhD student at the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, and advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). I am interested in robust and scalable cross-lingual transfer in the field of Natural Language Processing. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/240917_CV_FDS.pdf).
 
 ## News
 
 <table class="twoColumnTable">
     <tbody>
+        <tr>
+            <td class="left-column">September, 2024</td>
+            <td class="right-column">I have started my 3 months research internship on massively multilingual causal language models with <a href="https://dadelani.github.io/">David Adelani</a> at <a href="https://mila.quebec/en">Mila</a>, Montreal.</td> 
+        </tr>
         <tr>
             <td class="left-column">June, 2024</td>
             <td class="right-column">Our paper <a href="https://arxiv.org/abs/2406.12739">Self-Distillation for Model Stacking Unlocks Cross-Lingual NLU in 200+ Languages</a> is out! This was joint work with <a href="https://scholar.google.com/citations?user=efKKfygAAAAJ&hl=en">Philipp Borchert</a>, <a href="https://sites.google.com/site/ivanvulic/">Ivan Vulić</a>, and <a href="https://sites.google.com/view/goranglavas">Goran Glavaš</a> during my research visit in Cambridge.</td>
