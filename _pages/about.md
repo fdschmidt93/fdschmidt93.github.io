@@ -16,7 +16,7 @@ I am a final year PhD student at the [University of Würzburg](https://www.infor
     <tbody>
         <tr>
             <td class="left-column">September, 2024</td>
-            <td class="right-column">I have started my 3 months research internship on massively multilingual causal language models with <a href="https://dadelani.github.io/">David Adelani</a> at <a href="https://mila.quebec/en">Mila</a>, Montreal.</td> 
+            <td class="right-column">I have started my 3 months research internship on massively multilingual spoken language understanding with <a href="https://dadelani.github.io/">David Adelani</a> at <a href="https://mila.quebec/en">Mila</a>, Montreal.</td> 
         </tr>
         <tr>
             <td class="left-column">June, 2024</td>
@@ -45,6 +45,13 @@ I am a final year PhD student at the [University of Würzburg](https://www.infor
 ## Publications
 
 <table>
+    <tr> 
+        <td><b>Self-Distillation for Model Stacking Unlocks Cross-Lingual NLU in 200+ Languages</b><br>
+        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
+        <i>Findings of the 2024 Conference on Empirical Methods in Natural Language Processing</i><br>
+        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>LONG</b></div>
+        </td>
+    </tr>
     <tr> 
         <td><b>One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer</b><br>
         <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
