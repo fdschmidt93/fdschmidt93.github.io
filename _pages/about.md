@@ -8,15 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student at the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, and advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). I am interested in robust and scalable cross-lingual transfer in the field of Natural Language Processing. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/241104_CV_FDS.pdf).
+I hold a PhD in Natural Language Processing from the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, where I was advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). My research focused on robust and scalable cross-lingual transfer. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/241104_CV_FDS.pdf).
 
 ## News
 
 <table class="twoColumnTable">
     <tbody>
         <tr>
+            <td class="left-column">July, 2025</td>
+            <td class="right-column">
+                I successfully defended my PhD thesis <i>"Robust and Scalable Cross-Lingual Transfer"</i> and was awarded my PhD with <b>summa cum laude</b>.
+                <p style="margin-top: 1em;">Our paper <a href="https://arxiv.org/abs/2501.06117">Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding</a>, from my research visit at Mila, got accepted to <b>CoLM</b>.</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="left-column">May, 2025</td>
+            <td class="right-column">
+                Three of our papers were accepted to <b>ACL 2025</b>:<br>
+                <ul>
+                    <li>BABELEDITS: robust cross-lingual knowledge editing for LLMs (Findings)</li>
+                    <li><a href="https://arxiv.org/abs/2506.02591">On Generalization across Measurement Systems: test-time compute disparities for underrepresented cultures</a> (Main)</li>
+                    <li><a href="https://arxiv.org/abs/2502.12852">MVL-SIB: multilingual vision-language benchmark for cross-modal topical matching</a> (Findings)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td class="left-column">September, 2024</td>
-            <td class="right-column">I have started my 3 months research internship on massively multilingual spoken language understanding with <a href="https://dadelani.github.io/">David Adelani</a> at <a href="https://mila.quebec/en">Mila</a>, Montreal.</td> 
+            <td class="right-column">I have started my 3 months research internship on massively multilingual spoken language understanding with <a href="https://dadelani.github.io/">David Adelani</a> at <a href="https://mila.quebec/en">Mila</a>, Montreal.</td>
         </tr>
         <tr>
             <td class="left-column">June, 2024</td>
@@ -40,52 +58,3 @@ I am a final year PhD student at the [University of Würzburg](https://www.infor
         </tr>
     </tbody>
 </table>
-
-
-## Publications
-
-<table>
-    <tr> 
-        <td><b>Self-Distillation for Model Stacking Unlocks Cross-Lingual NLU in 200+ Languages</b><br>
-        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
-        <i>Findings of the 2024 Conference on Empirical Methods in Natural Language Processing</i><br>
-        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>LONG</b></div>
-        </td>
-    </tr>
-    <tr> 
-        <td><b>One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer</b><br>
-        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
-        <i>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing</i><br>
-        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>SHORT</b></div>
-        </td>
-    </tr>
-    <tr> 
-        <td><a href="https://aclanthology.org/2023.acl-long.314/"><b>Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging</b></a><br>
-        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
-        <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics</i><br>
-        <div class="conf_button"><b>ACL</b></div>&nbsp;<div class="paper_button"><b>LONG</b></div>
-        </td>
-    </tr>
-    <tr> 
-        <td><a href="https://aclanthology.org/2022.emnlp-main.736/"><b>Don’t Stop Fine-Tuning: On Training Regimes for Few-Shot Cross-Lingual Transfer with Multilingual Language Models</b></a><br>
-        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
-        <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing</i><br>
-        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>LONG</b></div>
-        </td>
-    </tr>
-    <tr> 
-        <td><a href="https://aclanthology.org/2022.emnlp-main.740/"><b> SLICER: Sliced Fine-Tuning for Low-Resource Cross-Lingual Transfer for Named Entity Recognition</b></a><br>
-        <u>Fabian David Schmidt</u>, Ivan Vulić, Goran Glavaš.<br>
-        <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing</i><br>
-        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>SHORT</b></div>
-        </td>
-    </tr>
-    <tr> 
-        <td><a href="https://aclanthology.org/D19-3034/"><b>SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval</b></a><br>
-        <u>Fabian David Schmidt</u>, Markus Dietsche, Simone Paolo Ponzetto, Goran Glavaš.<br>
-        <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</i><br>
-        <div class="conf_button"><b>EMNLP</b></div>&nbsp;<div class="paper_button"><b>DEMO</b></div>
-        </td>
-    </tr>
-</table>
-
