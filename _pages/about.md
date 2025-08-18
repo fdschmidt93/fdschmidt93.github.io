@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I hold a PhD in Natural Language Processing from the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, where I was advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). My research focused on robust and scalable cross-lingual transfer. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/241104_CV_FDS.pdf).
+I am currently a Member of Technical Staff in the Embeddings & Search Team at Cohere. I hold a PhD in Natural Language Processing from the [University of Würzburg](https://www.informatik.uni-wuerzburg.de/nlp/wuenlp/), Germany, where I was advised by [Goran Glavaš](https://sites.google.com/view/goranglavas) (University of Würzburg) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/) (University of Cambridge). My research focused on robust and scalable cross-lingual transfer. Before that, I obtained my B.Sc. in Finance and interned at Goldman Sachs in London. Next to my research, I sometimes contribute to open source projects like [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim). You can find more info on my [CV](https://fdschmidt93.github.io/files/250818_CV_FDS.pdf).
 
 ## News
 
 <table class="twoColumnTable">
     <tbody>
+        <tr>
+            <td class="left-column">August, 2025</td>
+            <td class="right-column">
+                I am very happy to announce that I started as a Member of Technical Staff in the Embeddings & Search Team at Cohere!
+            </td>
+        </tr>
         <tr>
             <td class="left-column">July, 2025</td>
             <td class="right-column">
